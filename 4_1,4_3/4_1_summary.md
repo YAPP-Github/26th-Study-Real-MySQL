@@ -239,3 +239,5 @@ MySQL의 쿼리 실행 과정은 아래와 같은 단계로 구성된다.
 - InnoDB 이외의 스토리지 엔진(MyISAM, CSV 등)은 `.sdi` 파일을 통해 메타데이터를 관리
 - `.sdi`는 직렬화된 메타데이터 포맷으로, InnoDB 테이블도 `ibd2sdi` 유틸리티로 추출 가능
 
+#### 노션 발표자료
+[4-1, 4-3 발표자료](https://lunar-count-633.notion.site/4-1-4-3-2022f60509ac8097a0e1ecb7437feefd?source=copy_link)
