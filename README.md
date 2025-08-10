@@ -11,15 +11,15 @@
 |----------------------|-----------------------------|-----------------------------------------------------------------------------------------------------------------|
 | Week 01 (5/25)       | 사전 모임                       | -                                                                                                               |
 | Week 02 (5/29)       | [4장. 아키텍처] 4.1, 4.3         | <a href="https://github.com/YAPP-Github/26th-Study-Real-MySQL/tree/4_1%2C4_3/4_1%2C4_3">[이승로] - GitHub</a> <br> |
-| Week 03 (6/5)        | [4장. 아키텍처] 4.2, 4.4         | <a href="">[나아연] - GitHub</a> <br>                                                                              |
-| Week 04 (6/12)       | [5장. 트랜잭션과 잠금]              | <a href="">[허석문] - GitHub</a> <br>                                                                              |
-| Week 05 (6/19)       | [8장. 인덱스] 8.1 - 8.3         | <a href="">[김성민] - GitHub</a> <br>                                                                              |
-| Week 06 (6/26)       | [8장. 인덱스] 8.4 - 8.10        | <a href="">[임지수] - GitHub</a> <br>                                                                              |
-| Week 07 (7/3)        | [9장. 옵티마이저와 힌트] 9.1 - 9.2   | <a href="">[임지수] - GitHub</a> <br>                                                                              |
-| Week 08 (7/10)       | [9장. 옵티마이저와 힌트] 9.3.1       | <a href="">[이승로] - GitHub</a> <br>                                                                              |
-| Week 09 (7/17)       | [9장. 옵티마이저와 힌트] 9.3.2 - 9.4 | <a href="">[나아연] - GitHub</a> <br>                                                                              |
-| Week 10 (7/24)       | [10장. 실행계획] 10.1 - 10.2     | <a href="">[김성민] - GitHub</a> <br>                                                                              |
-| Week 11 (7/31)       | [10장. 실행계획] 10.3            | <a href="">[허석문] - GitHub</a> <br>                                                                              |
+| Week 03 (6/5)        | [4장. 아키텍처] 4.2, 4.4         | <a href="https://github.com/YAPP-Github/26th-Study-Real-MySQL/tree/main/4_2%2C4_4">[나아연] - GitHub</a> <br>                                                                              |
+| Week 04 (6/12)       | [5장. 트랜잭션과 잠금]              | <a href="https://github.com/YAPP-Github/26th-Study-Real-MySQL/tree/main/5">[허석문] - GitHub</a> <br>                                                                              |
+| Week 05 (6/19)       | [8장. 인덱스] 8.1 - 8.3         | <a href="https://github.com/YAPP-Github/26th-Study-Real-MySQL/tree/main/8_1%2C8_3">[김성민] - GitHub</a> <br>                                                                              |
+| Week 06 (6/26)       | [8장. 인덱스] 8.4 - 8.10        | <a href="https://github.com/YAPP-Github/26th-Study-Real-MySQL/tree/main/8_4-8_10">[임지수] - GitHub</a> <br>                                                                              |
+| Week 07 (7/3)        | [9장. 옵티마이저와 힌트] 9.1 - 9.2   | <a href="https://github.com/YAPP-Github/26th-Study-Real-MySQL/tree/main/9_1-9_2">[임지수] - GitHub</a> <br>                                                                              |
+| Week 08 (7/10)       | [9장. 옵티마이저와 힌트] 9.3.1       | <a href="https://github.com/YAPP-Github/26th-Study-Real-MySQL/tree/main/9_3_1">[이승로] - GitHub</a> <br>                                                                              |
+| Week 09 (7/17)       | [9장. 옵티마이저와 힌트] 9.3.2 - 9.4 | <a href="https://github.com/YAPP-Github/26th-Study-Real-MySQL/tree/main/9_3_2-9_4">[나아연] - GitHub</a> <br>                                                                              |
+| Week 10 (7/24)       | [10장. 실행계획] 10.1 - 10.2     | <a href="https://github.com/YAPP-Github/26th-Study-Real-MySQL/tree/main/10_1-10_2">[김성민] - GitHub</a> <br>                                                                              |
+| Week 11 (7/31)       | [10장. 실행계획] 10.3            | <a href="https://github.com/YAPP-Github/26th-Study-Real-MySQL/tree/main/10_3">[허석문] - GitHub</a> <br>                                                                              |
 | Week 12 (8/7)        | 모의 인터뷰                      | -                                                                                                               |
 
 ### 🙋 스터디원
